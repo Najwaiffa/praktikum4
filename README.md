@@ -51,3 +51,25 @@ jika di running akan menjadi seperti di bawah ini
 - Tampilkan n bilangan acak yang lebih kecil dari 0.5. 
 - Nilai n diisi pada saat runtime 
 - Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+
+![gambar1](gambar/aaaaa1.png)
+
+Ketika di running akan menjadi seperti ini
+
+![gambar1](gambar/aaaaa2.png)
+
+
+# Lab 2
+# Tugas Praktikum 3
+- x,y,z sebagai int
+- jika x lebih besar dari z akan muncul x
+- jika y lebih besar dari z maka akan muncul y
+- begitu sebaliknya
+seperti coding berikut:
+
+![gambar1](gambar/aaaa1.png)
+
+dan hasil codingan tadi sepeti:
+
+![gambar1](gambar/aaaa2.png)
+
