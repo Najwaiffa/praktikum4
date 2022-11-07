@@ -36,7 +36,18 @@ Kita mulai dengan if a < b dan if b > c lalu tambah kan else untuk penambah perc
 
 ![gambar1](gambar/aaa3.png)
 
-## Tugas 3
+##  Tugas 3
 - Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
-![gambar1](gambar/aaaa.png)
+pertama buat coding seperti :
+
+![gambar1](gambar/b1.png)
+
+jika di running akan menjadi seperti di bawah ini
+    
+![gambar1](gambar/b2.png)
+
+##  Tugas 4
+- Tampilkan n bilangan acak yang lebih kecil dari 0.5. 
+- Nilai n diisi pada saat runtime 
+- Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
